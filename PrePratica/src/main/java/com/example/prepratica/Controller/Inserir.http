@@ -1,0 +1,9 @@
+POST http://localhost:9192/api/produto/postar
+Content-Type: application/json
+
+{
+  "nome" : "fidax",
+  "descricao" : "meu namo",
+  "preco" : 10000000,
+  "quantidadeestoque" : 0
+}

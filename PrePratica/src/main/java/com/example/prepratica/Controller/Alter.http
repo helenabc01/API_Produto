@@ -1,0 +1,9 @@
+PUT http://localhost:9192/api/produto//update/17
+Content-Type: application/json
+
+{
+  "nome" : "fidax",
+  "desc" : "meu namo",
+  "preco" : 10000000,
+  "qntEstroque" : 0
+}

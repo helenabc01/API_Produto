@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/APratica.iml" filepath="$PROJECT_DIR$/.idea/APratica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrePratica/PrePratica.iml" filepath="$PROJECT_DIR$/PrePratica/PrePratica.iml" />
+    </modules>
+  </component>
+</project>
