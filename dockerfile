@@ -10,5 +10,5 @@ RUN mvn clean package -DskipTests
 #
 FROM openjdk:17-jdk-slim
 COPY --from=build /target/PrePratica-0.0.1-SNAPSHOT.jar PrePratica.jar
-EXPOSE 8080
+EXPOSE 9192
 ENTRYPOINT ["java","-jar","PrePratica.jar"]
